@@ -1,2 +1,3 @@
 commit 0
 commit 1 (criacao de branch1)
+commit 3 (criacao de conflito "commit 3")
