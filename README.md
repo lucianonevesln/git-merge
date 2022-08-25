@@ -2,7 +2,7 @@
 
 ## Objetivo:
 
-### Criar passo a passo para simples para utilização do comando "git merge".
+### Criar passo a passo simples para utilização do comando "git merge".
 
 ## Passo a Passo:
 
