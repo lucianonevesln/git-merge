@@ -16,7 +16,7 @@
 
 #### 4 - Execução do comando "git add .";
 
-#### 5 - Execução do comando "git commit -m "<comentario>"";
+#### 5 - Execução do comando "git commit -m <comentario>";
 
 #### 6 - Execução do comando "git -M main";
 
